@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T09:49:12.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="q80zQfLYHqLFmMfgIwSp" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T07:18:59.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="VlqbrOKYZkO3u-lRfv9X" version="20.2.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="893" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p92eHHjYNTa7er7wWZSy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p92eHHjYNTa7er7wWZSy-4" target="p92eHHjYNTa7er7wWZSy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-4" value="查询店铺需要管理的全部功能点" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p92eHHjYNTa7er7wWZSy-6" target="p92eHHjYNTa7er7wWZSy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p92eHHjYNTa7er7wWZSy-9">
+          <mxGeometry x="-0.1251" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-11" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.022;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p92eHHjYNTa7er7wWZSy-6" target="p92eHHjYNTa7er7wWZSy-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-6" value="当前请求是否在全部功能点集合中" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p92eHHjYNTa7er7wWZSy-8" target="p92eHHjYNTa7er7wWZSy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-8" value="查询该账号功能点" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-14" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p92eHHjYNTa7er7wWZSy-12" target="p92eHHjYNTa7er7wWZSy-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p92eHHjYNTa7er7wWZSy-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p92eHHjYNTa7er7wWZSy-16">
+          <mxGeometry x="-0.055" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-12" value="当前请求是否在该账号功能点集合中" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p92eHHjYNTa7er7wWZSy-17" target="p92eHHjYNTa7er7wWZSy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-17" value="接收请求" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-20" value="拦截" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="790" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p92eHHjYNTa7er7wWZSy-22" value="放行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
